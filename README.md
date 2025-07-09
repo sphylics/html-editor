@@ -22,7 +22,7 @@
 
 広告なしで、すぐに使えるクリーンなUIを提供しています。
 
-**HTMLエディターはこちらからすぐご利用いただけます：** [https://sphylics.github.io/htmledit/](https://sphylics.github.io/htmledit/)
+**HTMLエディターはこちらからすぐご利用いただけます：** [https://math-u-t.github.io/htmledit/](https://math-u-t.github.io/htmledit/)
 
 ## 開発について ##
 <a href="#ar1-1"></a>
@@ -94,6 +94,6 @@
 
 ご意見・ご感想・バグ報告などは、以下のGitHub Issueページからお気軽にお寄せください。
 
-[https://github.com/sphylics/htmledit/issues](https://github.com/sphylics/htmledit/issues)
+[https://github.com/math-u-t/htmledit/issues](https://github.com/math-u-t/htmledit/issues)
 
 皆様のフィードバックが、このプロジェクトの成長にとって非常に重要です。ぜひご協力をお願いいたします！
